@@ -67,11 +67,10 @@ Prometheus OpenCost     Grafana
 ## 📸 Screenshots
 
 ### Infrastructure Monitoring Dashboard
+![NEXUS Local Deployment](https://raw.githubusercontent.com/invalid-52/cloud-intelligence-platform/main/local%20deployment.png)
 
 ### Grafana Integration
-
- *(Note: Replace with your actual Grafana image path if uploaded)*
-
+![Grafana Embedded Dashboard](https://raw.githubusercontent.com/invalid-52/cloud-intelligence-platform/main/local%20deployment.png)
 ---
 
 ## 🏆 Key Engineering Achievements
