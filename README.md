@@ -1,7 +1,3 @@
-Here is the finalized README with your live GitHub Pages demo link seamlessly integrated.
-
----
-
 # 🌌 NEXUS | Cloud Intelligence Platform
 
 **NEXUS** is a next-generation Cloud FinOps and Site Reliability Engineering (SRE) command center. Built specifically for Google Cloud Platform (GCP) and Kubernetes environments, it fuses real-time infrastructure metrics, cost allocation data, and predictive intelligence into a single, seamless glassmorphism interface.
